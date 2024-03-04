@@ -1,7 +1,6 @@
 ## Programming Language:
 - Prolog
 ## Problem Description:
-# Project README
 
 ## Introduction
 
@@ -108,25 +107,6 @@ You also implement the predicate `eventosOcorremNaSala/3`, such that:
 
 Finally, you implement the predicate `eventosNoPeriodo/3`, such that:
 - `eventosNoPeriodo(Periodo, Dia, EventosOcorrem)` is true if `EventosOcorrem` is the list of identifiers of events that take place on day `Dia` in the period `Periodo`.
-
-## Implementation Conditions
-
-The implementation conditions for the Prolog code are as follows:
-- Do not use assert or retract.
-- The code must be based on recursion.
-- All predicates must terminate.
-
-## Evaluation
-
-The evaluation will be based on the following criteria:
-- Completeness and correctness of the implementation;
-- Efficiency and elegance of the implemented predicates;
-- Quality and clarity of the comments;
-- Readability and organization of the code.
-
-## Recommendations
-
-Remember to organize your code well, use explanatory variable names, and comment on the main points of your code. Think about edge cases and test your code thoroughly. Finally, keep in mind the conditions for implementation and evaluate whether your solution meets them.
 
 ## Conclusion
 
