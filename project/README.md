@@ -1,10 +1,8 @@
 ## Programming Language:
 - Prolog
-## Problem Description:
-
 ## Introduction
 
-One beautiful day, you hear about a hacker attack on the IST-Tagus room occupancy database. In an attempt to help, you study the relevant data structures (Section 1), create a program in Prolog (first lines in Section 2), and solve the problem. You become a hero, but as you know, with great powers come great responsibilities, and more requests for help start pouring in (Section 3). Of course, you give your best! For project implementation conditions, evaluation, and recommendations, see Sections 4 and 5.
+One beautiful day, you hear about a hacker attack on the IST-Tagus room occupancy database. In an attempt to help, you study the relevant data structures (Section 1), create a program in Prolog (first lines in Section 2), and solve the problem. You become a hero, but as you know, with great powers come great responsibilities, and more requests for help start pouring in (Section 3). Of course, you give your best!
 
 ## Data Structures
 
@@ -48,19 +46,6 @@ salas(videoConf, ['0-19', '0-13']).
 ...
 licenciaturas(tagus, ['lee', 'legi', 'leic-t', 'leti']).
 mestrados(tagus, ['mbmrp', 'mee', 'megi', 'meic-t', 'meti']).
-```
-
-## Prolog Program
-
-The Prolog file (`.pl` extension) to be used in the project should have the following initial lines:
-
-```
-% Number and name of the student
-:- set_prolog_flag(answer_write_options,[max_depth(0)]). % for complete lists
-:- ['dados.pl'], ['keywords.pl']. % files to import.
-/*
-Code
-*/
 ```
 
 ## Implemented Predicates
