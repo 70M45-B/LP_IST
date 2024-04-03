@@ -2,7 +2,7 @@
 - Prolog
 ## Introduction
 
-One beautiful day, you hear about a hacker attack on the IST-Tagus room occupancy database. In an attempt to help, you study the relevant data structures, create a program in Prolog (first lines in Section 2), and solve the problem. You become a hero, but as you know, with great powers come great responsibilities, and more requests for help start pouring in. Of course, you give your best!
+One beautiful day, you hear about a hacker attack on the IST room occupancy database. In an attempt to help, you study the relevant data structures, create a program in Prolog (first lines in Section 2), and solve the problem. You become a hero, but as you know, with great powers come great responsibilities, and more requests for help start pouring in. Of course, you give your best!
 
 ## Data Structures
 
